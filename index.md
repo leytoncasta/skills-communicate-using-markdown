@@ -8,3 +8,8 @@ I'm introducing a title. That's all
 ``` Java
 private String variable = "Hello World";
 ```
+
+###### List
+- [X] Turn on gitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
